@@ -1,0 +1,5 @@
+name: exercise_binder
+channels:
+  - conda-forge
+dependencies:
+  - python==3.9.7
